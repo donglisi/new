@@ -1,0 +1,7 @@
+To: root
+From: p
+Auto-Submitted: auto-generated
+Subject: *** SECURITY information for desktop ***
+
+desktop : Nov 19 06:34:26 : p : user NOT in sudoers ; TTY=pts/1 ; PWD=/home/p ; USER=root ; COMMAND=/usr/bin/su
+

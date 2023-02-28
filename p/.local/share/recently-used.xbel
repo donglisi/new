@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///a/book/english_book/NVM-Express-Base-Specification-2_0.pdf" added="2022-11-19T20:45:40.623762Z" modified="2023-02-14T19:07:12.727051Z" visited="2022-11-19T20:45:40.623763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-14T19:07:12.727049Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/PCI_Express_Base_Specification_Revision_3.0.pdf" added="2022-11-19T21:03:37.335248Z" modified="2023-02-16T17:24:58.605633Z" visited="2022-11-19T21:03:37.335249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-16T17:24:58.605632Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/virtio-v1.2.pdf" added="2022-11-19T21:04:25.611297Z" modified="2023-02-14T19:03:45.017904Z" visited="2022-11-19T21:04:25.611298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-14T19:03:45.017903Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Linux%E5%86%85%E6%A0%B8_%E5%8E%9F%E4%B9%A6%E7%AC%AC%E4%B8%89%E7%89%88.pdf" added="2022-11-19T22:49:33.375349Z" modified="2023-02-10T20:01:52.317529Z" visited="2022-11-19T22:49:33.375350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-10T20:01:52.317527Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/Intel_SDM-3.pdf" added="2022-11-25T23:20:05.295573Z" modified="2023-01-29T12:34:30.079598Z" visited="2022-11-25T23:20:05.295574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-29T12:34:30.079597Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/BPF%E4%B9%8B%E5%B7%85_%E6%B4%9E%E6%82%89Linux%E7%B3%BB%E7%BB%9F%E5%92%8C%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD.pdf" added="2022-11-28T21:17:25.466716Z" modified="2023-02-08T05:13:46.243783Z" visited="2022-11-28T21:17:25.466716Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-08T05:13:46.243782Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/AMD_APM-2.pdf" added="2022-12-25T23:15:04.515023Z" modified="2023-02-21T23:10:10.392689Z" visited="2022-12-25T23:15:04.515024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-21T23:10:10.392687Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/else/QEMU_KVM%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8.pdf" added="2022-12-29T04:55:27.074784Z" modified="2023-02-11T15:31:45.444297Z" visited="2022-12-29T04:55:27.074784Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-11T15:31:45.444296Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/amd-vi.pdf" added="2022-12-29T05:15:40.155108Z" modified="2023-02-23T12:23:02.704490Z" visited="2022-12-29T05:15:40.155109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T12:23:02.704489Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/vt-directed-io-spec.pdf" added="2022-12-29T05:16:16.095509Z" modified="2023-02-23T12:39:23.984641Z" visited="2022-12-29T05:16:16.095510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T12:39:23.984639Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/PCI_Local_Bus_Specification.pdf" added="2022-12-29T06:59:44.186873Z" modified="2023-02-23T21:59:39.493033Z" visited="2022-12-29T06:59:44.186874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T21:59:39.493032Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/blk-mq.pdf" added="2023-01-02T10:05:15.491212Z" modified="2023-02-08T15:48:45.769584Z" visited="2023-01-02T10:05:15.491213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-08T15:48:45.769583Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/NVM-Express-PCIe-Transport-Specification-1.0c-2022.10.03-Ratified.pdf" added="2023-01-12T21:44:13.301850Z" modified="2023-02-05T01:55:12.170962Z" visited="2023-01-12T21:44:13.301851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-05T01:55:12.170961Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/NVMe-NVM-Command-Set-Specification-1.0a-2021.07.26-Ratified.pdf" added="2023-01-12T21:46:51.718789Z" modified="2023-02-09T11:54:52.547197Z" visited="2023-01-12T21:46:51.718790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-09T11:54:52.547196Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/NVM-Express-Management-Interface-1.2-2021.06.02-Ratified.pdf" added="2023-01-12T21:47:27.462035Z" modified="2023-02-05T01:54:28.598137Z" visited="2023-01-12T21:47:27.462036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-05T01:54:28.598136Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/Intel_SDM-2.pdf" added="2023-01-17T22:48:44.117028Z" modified="2023-01-29T12:33:08.457054Z" visited="2023-01-17T22:48:44.117028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-29T12:33:08.457053Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F_%E5%8E%9F%E4%B9%A6%E7%AC%AC%E4%B8%89%E7%89%88.pdf" added="2023-01-29T13:11:23.574554Z" modified="2023-01-29T13:11:23.574558Z" visited="2023-01-29T13:11:23.574555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-29T13:11:23.574556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/SPDK_nvme_bdev_perf_report_2209.pdf" added="2023-02-09T11:55:05.625697Z" modified="2023-02-09T11:55:05.634641Z" visited="2023-02-09T11:55:05.625698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-09T11:55:05.634640Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/TCP_IP_%E8%AF%A6%E8%A7%A3_%E5%8D%B7%E4%B8%80_%E5%8E%9F%E4%B9%A6%E7%AC%AC%E4%BA%8C%E7%89%88.pdf" added="2023-02-09T14:07:43.506559Z" modified="2023-02-09T14:07:43.506562Z" visited="2023-02-09T14:07:43.506559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-09T14:07:43.506560Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/%E7%B2%BE%E9%80%9ALinux%E5%86%85%E6%A0%B8%E7%BD%91%E7%BB%9C.pdf" added="2023-02-09T15:00:10.369091Z" modified="2023-02-09T15:00:10.384921Z" visited="2023-02-09T15:00:10.369092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-09T15:00:10.384920Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/MSC-2017-19.pdf" added="2023-02-09T15:01:02.752489Z" modified="2023-02-24T00:39:48.450140Z" visited="2023-02-09T15:01:02.752490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-24T00:39:48.450138Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/UEFI_Spec_2_10_Aug29.pdf" added="2023-02-09T15:01:39.596494Z" modified="2023-02-09T15:01:39.697519Z" visited="2023-02-09T15:01:39.596495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-09T15:01:39.697518Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/hotstorage16_ahn.pdf" added="2023-02-10T13:23:07.277369Z" modified="2023-02-23T21:45:43.190877Z" visited="2023-02-10T13:23:07.277370Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T21:45:43.190876Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA.pdf" added="2023-02-11T15:39:17.931887Z" modified="2023-02-11T15:39:17.931890Z" visited="2023-02-11T15:39:17.931888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-11T15:39:17.931889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/ARMv8-A-Programmer-Guide.pdf" added="2023-02-12T05:51:39.840594Z" modified="2023-02-26T01:40:35.218107Z" visited="2023-02-12T05:51:39.840595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-26T01:40:35.218105Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/DEN0013D_cortex_a_series_PG.pdf" added="2023-02-12T07:12:14.477205Z" modified="2023-02-24T00:35:46.822568Z" visited="2023-02-12T07:12:14.477206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-24T00:35:46.822566Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/Mastering%20Embedded%20Linux%20Programming%20-%20Second%20Edition.pdf" added="2023-02-13T23:43:45.442720Z" modified="2023-02-13T23:43:45.501135Z" visited="2023-02-13T23:43:45.442721Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-13T23:43:45.501134Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/arm-storage-solution-for-ssd-solutions-brief.pdf" added="2023-02-14T19:18:43.920635Z" modified="2023-02-14T19:18:43.920639Z" visited="2023-02-14T19:18:43.920636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-14T19:18:43.920637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/else/Linux%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E8%AF%A6%E8%A7%A3_%E5%9F%BA%E4%BA%8E%E6%9C%80%E6%96%B0%E7%9A%84Linux4.0%E5%86%85%E6%A0%B8%E6%89%AB%E6%8F%8F%E7%89%88.pdf" added="2023-02-16T17:39:45.053300Z" modified="2023-02-23T21:40:53.927990Z" visited="2023-02-16T17:39:45.053301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T21:40:53.927989Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/01x04-ARMdevice.pdf" added="2023-02-19T08:49:27.987110Z" modified="2023-02-24T00:38:40.223984Z" visited="2023-02-19T08:49:27.987111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-24T00:38:40.223983Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/PCI_Firmware_Specification_3.0.pdf" added="2023-02-21T23:13:13.883267Z" modified="2023-02-21T23:13:13.883270Z" visited="2023-02-21T23:13:13.883268Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-21T23:13:13.883269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/cm4-datasheet.pdf" added="2023-02-23T21:45:12.011003Z" modified="2023-02-23T21:45:12.023151Z" visited="2023-02-23T21:45:12.011004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T21:45:12.023150Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/scsi.pdf" added="2023-02-23T21:46:16.268795Z" modified="2023-02-23T21:46:16.279396Z" visited="2023-02-23T21:46:16.268795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T21:46:16.279395Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/Session-2-Enabling-the-NVMe-CMB-and-PMR-Ecosystem-Eideticom-and-Mell....pdf" added="2023-02-23T21:46:37.425361Z" modified="2023-02-23T21:46:37.436547Z" visited="2023-02-23T21:46:37.425362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T21:46:37.436545Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/Linux%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F_%E5%8E%9F%E4%B9%A6%E7%AC%AC%E4%B8%89%E7%89%88.pdf" added="2023-02-23T23:37:43.326782Z" modified="2023-02-23T23:37:43.326785Z" visited="2023-02-23T23:37:43.326783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-23T23:37:43.326784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/IHI_0070_D_a_System_Memory_Management_Unit_Arm_Architecture_Specification.pdf" added="2023-02-24T00:33:05.305372Z" modified="2023-02-24T00:33:05.305377Z" visited="2023-02-24T00:33:05.305374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-24T00:33:05.305375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/sprabk8.pdf" added="2023-02-24T00:34:07.653707Z" modified="2023-02-24T00:35:24.617174Z" visited="2023-02-24T00:34:07.653707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-24T00:35:24.617173Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/ARM_Cortex_A_Series_Programmer%E2%80%99s_Guide_Version_4.pdf" added="2023-02-24T00:36:51.203620Z" modified="2023-02-26T01:40:29.143308Z" visited="2023-02-24T00:36:51.203620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-26T01:40:29.143306Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/isca19_svt.pdf" added="2023-02-24T00:39:04.783741Z" modified="2023-02-24T00:39:04.783745Z" visited="2023-02-24T00:39:04.783742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-24T00:39:04.783743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/DDI01001.pdf" added="2023-02-25T15:41:04.909571Z" modified="2023-02-25T15:41:04.909574Z" visited="2023-02-25T15:41:04.909572Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-25T15:41:04.909573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///a/book/english_book/DDI0487_I_a_a-profile_architecture_reference_manual.pdf" added="2023-02-25T15:47:30.629944Z" modified="2023-02-26T01:39:49.658671Z" visited="2023-02-25T15:47:30.629945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-02-26T01:39:49.658670Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

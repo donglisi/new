@@ -1,0 +1,61 @@
+Using desktop session xfce
+
+New 'desktop:99 (p)' desktop is desktop:99
+
+Starting desktop session xfce
+
+
+Xvnc TigerVNC 1.12.0 - built Jul 23 2022 00:00:00
+Copyright (C) 1999-2021 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12014000, The X.Org Foundation
+
+
+Sun Feb 26 01:38:36 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5999
+ vncext:      created VNC server for screen 0
+xinit: XFree86_VT property unexpectedly has 0 items instead of 1
+/usr/bin/startxfce4: X server already running on display :99
+/usr/bin/iceauth:  creating new authority file /run/user/1002/ICEauthority
+xfce4-session-Message: 01:38:37.305: SSH authentication agent is already running
+
+(xfwm4:935): xfwm4-WARNING **: 01:38:37.544: Unsupported GL renderer (llvmpipe (LLVM 15.0.0, 256 bits)).
+
+** (xfce4-power-manager:964): WARNING **: 01:38:37.708: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: The name does not have an owner
+
+
+** (xfce4-power-manager:964): WARNING **: 01:38:37.709: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: The name does not have an owner
+
+Xlib:  extension "DPMS" missing on display ":99.0".
+
+(xfce4-power-manager:964): xfce4-power-manager-WARNING **: 01:38:37.711: Monitor is not DPMS capable
+
+(xfce4-power-manager:964): libnotify-WARNING **: 01:38:37.721: Failed to connect to proxy
+
+(xfce4-power-manager:964): GLib-GObject-WARNING **: 01:38:37.848: ../gobject/gsignal.c:2620: signal 'Changed' is invalid for instance '0x55eb5d5ae950' of type 'GDBusProxy'
+
+(xfce4-power-manager:964): xfce4-power-manager-WARNING **: 01:38:38.048: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:964): GLib-GObject-CRITICAL **: 01:38:38.051: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+Xlib:  extension "DPMS" missing on display ":99.0".
+
+(xfce4-power-manager:964): xfce4-power-manager-WARNING **: 01:38:38.051: Cannot get DPMSInfo
+
+(xfce4-power-manager:964): GLib-GObject-CRITICAL **: 01:38:38.051: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+
+(xfce4-power-manager:964): GLib-GObject-CRITICAL **: 01:38:38.051: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+free(): invalid pointer
+
+Sun Feb 26 09:39:03 2023
+ Connections: accepted: 127.0.0.1::44458
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Feb 26 09:39:05 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+(xfsettingsd:956): xfsettingsd-WARNING **: 09:50:51.971: Failed to show notification: Sticky keys (Sticky keys are enabled).

@@ -1,0 +1,5 @@
+[default-routes]
+bluez_card.5C_C6_E9_6A_11_8F:output:headphone-output:channelMap=FL;FR;
+bluez_card.5C_C6_E9_6A_11_8F:output:headphone-output:channelVolumes=0.40000000596046;0.40000000596046;
+bluez_card.5C_C6_E9_6A_11_8F:output:headphone-output:latencyOffsetNsec=0
+bluez_card.5C_C6_E9_6A_11_8F:profile:a2dp-sink-aac=headphone-output;

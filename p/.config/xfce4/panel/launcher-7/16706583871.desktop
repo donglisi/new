@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=delete_last_trans
+Comment=
+Exec=xfce4-terminal --maximize -e /usr/local/bin/trans-wrapper
+Icon=fcitx-chttrans-inactive
+Path=
+Terminal=false
+StartupNotify=false

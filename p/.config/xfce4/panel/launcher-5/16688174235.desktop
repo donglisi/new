@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=grave
+Comment=grave
+Exec=/home/p/.local/bin/grave
+Icon=emblem-synchronizing
+Path=
+Terminal=false
+StartupNotify=false

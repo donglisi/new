@@ -1,0 +1,6 @@
+"xfce4-terminal --maximize -e /usr/local/bin/trans-wrapper"
+b:6
+"xdotool key Return ; xdotool click 1"
+b:7
+"xfce4-terminal --maximize -e /usr/local/bin/trans-wrapper"
+F11
